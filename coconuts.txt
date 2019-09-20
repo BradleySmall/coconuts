@@ -1,0 +1,36 @@
+Five guys get shipwrecked on a deserted island. They start off friendly and
+spend the whole day collecting all the coconuts they can find. By the time it
+gets dark they have gotten on each other's nerves to the point that they decide
+to divey up their cocounts and go their separate ways. Since it has gotten
+dark, they decide that they will sleep and take care of the details in the
+morning. 
+
+A little while after they all go to bed, one of them wakes up and decides that
+he doesn't trust the rest of them not to take all the coconuts for themselves
+and leave him out cold. So he goes to the pile, meticulously separates the
+coconuts into 5 perfectly equal piles and finds that there is one left over, so
+he tosses that one to a local monkey who just happened to be watching him with
+some curiousity. He then takes his fair 1/5 back to his bunk and squishes the
+pile back together. Then he goes back to his bunk and goes to sleep. 
+
+By the time he falls back to sleep a second guy wakes up and has the same exact
+concern. He executes the same separation on the pile that is left. When he
+splits it into 5 piles, he also finds that there is one left over, and again
+tosses the extra one to the monkey. Then he takes his fair 1/5, pushes the rest
+of the pile back together stows his coconuts in his bunk and then he goes back
+to sleep.
+
+As you can guess, the next 3 guys all go through the same scenario, each of
+them finding exactly 1 extra coconut to the delight of the waiting monkey. Each
+take their fair 1/5 of the remaining coconuts and go back to sleep. 
+
+In the light of morning, none of them is going to admit to their nocturnal
+excursions so they split the pile into 5 and amazingly, to the chagrin
+of the monkey, there was no extra one this time. They each take their pile, and
+the ones they collected during the night and went about their way never to be
+seen again.
+
+The puzzle is to determine what is the minimum possible number of coconuts that
+they started with in the pile at the beginning of the night?
+
+Extra credit if you can determine how many each of them ended up with?
